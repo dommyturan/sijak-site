@@ -9,3 +9,4 @@ p,li{color:#c9cfdb}a{color:var(--gold)}
 .lede{font-size:19px;color:var(--fg)}
 .card{background:var(--panel);border-radius:12px;padding:18px 20px;margin-top:24px}
 footer{margin-top:48px;color:var(--dim);font-size:14px}
+h1 img.logo{height:clamp(120px,24vw,180px);display:block}
